@@ -4,4 +4,4 @@ isHome: true
 layout: index
 
 ---
-# Live edge coffee tables
+# Live Edge Coffee Tables
